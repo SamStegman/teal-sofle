@@ -11,7 +11,7 @@ manifest:
   projects:
     - name: teal_sofle
       url: https://github.com/SamStegman/teal-sofle
-      revision: refactor
+      revision: main
     - name: hammerbeam-slideshow
       remote: gpeye
       revision: main 
