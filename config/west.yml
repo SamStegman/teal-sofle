@@ -10,9 +10,9 @@ manifest:
       url-base: https://github.com/GPeye
   projects:
     - name: teal_sofle
-      url: https://github.com/a741725193/zmk-sofle
+      url: https://github.com/SamStegman/teal-sofle
       revision: refactor
-    - name: mario-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
       revision: main 
     - name: zmk
