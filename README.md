@@ -1,3 +1,3 @@
 # Sofle Keymap
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/teals_sofle.svg" >
